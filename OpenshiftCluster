@@ -1,0 +1,2 @@
+- name: Run Py script
+  command: /root/svt/openshift_scalability/cluster-loader.py pyconfig.yaml
